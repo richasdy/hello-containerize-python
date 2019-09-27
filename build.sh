@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --tag python-app
+docker build --tag python-app .
