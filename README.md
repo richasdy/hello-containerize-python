@@ -8,4 +8,4 @@ docker for python
 
 # source
 * https://www.wintellect.com/containerize-python-app-5-minutes/
-* https://testdriven.io/blog dockerizing-django-with-postgres-gunicorn-and-nginx/
+* https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
